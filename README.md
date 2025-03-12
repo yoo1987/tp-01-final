@@ -4,7 +4,7 @@ Alumna: Im Yoo Ri
 Profesor: Martínez Luciano
 Materia: Contenidos y creatividad.
 El proyecto se trata de una casa de música que vende instrumentos como el piano, guitarra y batería. Se basó en el Chat Gpt para la codificación y después se le añadió una imagen extraída de google. 
-Para visualizar el sitio en el git hub pages hay que ir al enlace proporcionado. Una vez codificado en el visual studio code se hace un repositorio y se carga la página para obtener un enlace para visualizar la página web.
+Para visualizar el sitio en el git hub pages hay que ir al enlace proporcionado. Una vez codificado en el visual studio code se hace un repositorio y se carga la página para obtener un enlace en settings-page para visualizar la página web.
 
 El javascript utilizado cambia de color de fondo 
 
